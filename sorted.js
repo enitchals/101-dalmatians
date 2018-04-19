@@ -43,13 +43,15 @@ import dogs from './data.js';
 // array.filter(callback);
 
 // PRACTICE PROBLEMS:
-// Create an array of the dogs who have fewer than ten spots
-// Create an array of the dogs who have exactly one spot
-// Create an array of the dogs who are three years old or younger
-// Create an array of the dogs who are more than 15 inches tall
-// Create an array of the dogs whose names start with a "P"
+// Create an array of dogs who have fewer than ten spots
+// Create an array of dogs who have exactly one spot
+// Create an array of dogs who are three years old or younger
+// Create an array of dogs who are more than 15 inches tall
+// Create an array of dogs whose names start with a "P"
 // Create an array of dogs whose names start with "R" or "S"
 // Create an array of dogs who are more than 12 inches tall
+// Create an array of dogs whose weights are 20 to 30 pounds (inclusive)
+// Create an array of dogs whose heights are 15 to 18 inches (inclusive)
 
 
 
@@ -63,4 +65,5 @@ import dogs from './data.js';
 
 // PRACTICE PROBLEMS
 // Console.log() the name of each dog
-// 
+// Add a "gender" property to each dog in the original array and randomly assign "M" or "F"
+// Console.log() "<dog> is a good boy/girl!" for each dog based on the gender property you added

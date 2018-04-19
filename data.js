@@ -92,7 +92,7 @@ const dogs = [
     { "name": 'Arthur', "age": 6, "spots": 48, "height": 18, "weight": 50 },
     { "name": 'Scooter', "age": 7, "spots": 69, "height": 17, "weight": 6 },
     { "name": 'Mopsy', "age": 4, "spots": 24, "height": 13, "weight": 46 },
-    { "name": 'Puff', "age": 4, "spots": 71, "height": 19, "weight": 6 },
+    { "name": 'Puff', "age": 4, "spots": 71, "height": 19, "weight": 26 },
     { "name": 'Pippi', "age": 4, "spots": 25, "height": 19, "weight": 42 },
     { "name": 'Scrappy', "age": 9, "spots": 19, "height": 23, "weight": 29 },
     { "name": 'Spot', "age": 3, "spots": 0, "height": 21, "weight": 24 },
