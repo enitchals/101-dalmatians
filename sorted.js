@@ -1,4 +1,5 @@
-import dogs from './data.js';
+// This line imports the dogs array from data.js. You don't need to do anything with it :)
+import dogs from './data.js'; 
 
 // .MAP()
 // Map creates a new array with the results from applying the callback function to each item in the array.

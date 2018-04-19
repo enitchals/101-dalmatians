@@ -1,3 +1,4 @@
+// This line imports the dogs array from data.js. You don't need to do anything with it :)
 import dogs from './data.js';
 
 // This problem set contains the same problems as sorted.js, but in a random order. Use .map(), .reduce(), .filter(), or .forEach() to solve each of the problems below.
