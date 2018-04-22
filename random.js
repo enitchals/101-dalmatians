@@ -5,7 +5,14 @@ import dogs from './data.js';
 
 
 // Console.log() the name of each dog
+let petName = [];
+let petN = dogs.forEach((eachPetName) => petName.push(eachPetName.name));
+console.log(petName);
+
 // Create an array of all the dog names
+let littleOne = dogs.map((dgName) => dgName.name);
+console.log(littleOne);
+
 // Create an array of dogs who are more than 15 inches tall
 // Create an array of dogs whose names start with "R" or "S"
 // How many spots do all the dogs have between them?
